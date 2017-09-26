@@ -34,7 +34,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.haitai.DetectionTool</string>
+				<string>com.haitai.AllDetectionTool</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
